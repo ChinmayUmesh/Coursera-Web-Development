@@ -30,6 +30,7 @@ h2{
 #Chicken{
 	border:1px solid black;
 	background-color: grey;
+  height: 200px;
 }
 #Beef >h2{
 	font-weight: bold;
@@ -40,6 +41,7 @@ h2{
 #Beef{
 	border:1px solid black;
 	background-color: grey;
+  height: 200px;
 }
 #Sushi >h2{
 	font-weight: bold;
@@ -49,6 +51,7 @@ h2{
 #Sushi{
 	border:1px solid black;
 	background-color: grey;
+  height: 200px;
 }
 p{
 	clear: right;
